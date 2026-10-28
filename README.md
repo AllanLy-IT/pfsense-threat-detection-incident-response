@@ -183,7 +183,7 @@ ip.addr == 192.168.50.100 && tcp.port == 8080
 
 Wireshark showed repeated TCP SYN packets without a successful response.
 
-![TCP SYN Retransmissions](screenshots/15-wireshark-tcp8080-syn-transmissions.png)
+![TCP SYN Retransmissions](screenshots/15-wireshark-tcp8080-syn-retransmissions.png)
 
 Packet capture:
 
